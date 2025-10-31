@@ -17,4 +17,4 @@ There's one  minor tweak from the default example, try flipping switches 1 and 8
 
 ## External hardware
 
-Dip switches and a 7-segment display.
+Dip switches and a 7-segment display, connected inexplicably.
